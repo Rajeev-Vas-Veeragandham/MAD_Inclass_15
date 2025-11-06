@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373559806797",
+    "project_id": "inventory-app-rajeev-inclass15",
+    "storage_bucket": "inventory-app-rajeev-inclass15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373559806797:android:27ce0077b2e475ca388504",
+        "android_client_info": {
+          "package_name": "com.example.inclass15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAie4TflBqEHLA676DRx8UQFBw7kTAR_3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
